@@ -1,5 +1,5 @@
 #include "sql/ast/common.hpp"
-#include "test/test.hpp"
+#include "test.hpp"
 
 namespace sql{ namespace  parser {
     using ast::bop;
