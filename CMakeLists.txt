@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.1)
 project(lib-sql)
 
-
 if(CMAKE_CURRENT_SOURCE_DIR STREQUAL CMAKE_SOURCE_DIR)
     # find_package( lib-dependency )
 endif()
